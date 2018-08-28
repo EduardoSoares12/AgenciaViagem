@@ -8,7 +8,7 @@ Funcionalidades:
 - Sistema de Login para Clientes
 - Reserva de Viagem Aérea
 - Reserva de Hospedagem em Hotéis
-- Recomedações de Turismo
+- Recomendações de Pacotes
 
 Classes:
 - Pessoa (Funcionario e Cliente)
